@@ -1,1 +1,1 @@
-history | grep "docker image list" | wc -l >=1
+[ `history | grep "docker image list" | wc -l` -ge 1 ] && echo "done"
