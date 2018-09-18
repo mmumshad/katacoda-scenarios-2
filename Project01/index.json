@@ -4,10 +4,36 @@
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - List Docker image",
+    "steps": [
+	{
+      "title": "Step 1 - List Docker Image",
       "text": "step1.md"
-    }],
+    },
+	{
+      "title": "Step 2 - Search Docker Image",
+      "text": "step2.md"
+    },
+	{
+      "title": "Step 3 - Pull Docker Image",
+      "text": "step3.md"
+    },
+	{
+      "title": "Step 4 - List Running Container",
+      "text": "step4.md"
+    },
+	{
+      "title": "Step 5 - Run a Docker Container",
+      "text": "step5.md"
+    },
+	{
+      "title": "Step 6 - Stop a Running Container",
+      "text": "step6.md"
+    },
+	{
+      "title": "Step 7 - Remove Stopped Container",
+      "text": "step7.md"
+    }
+	],
     "intro": {
       "text": "intro.md",
       "credits": ""
