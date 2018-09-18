@@ -1,1 +1,1 @@
-[ `docker image list| grep ubuntu | wc -l` -ge 1 ] && echo "done"
+(( $(docker image list| grep ubuntu | wc -l) >= 1 )) && echo \"done\"

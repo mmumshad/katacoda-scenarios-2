@@ -17,6 +17,7 @@
     },
 	{
       "title": "Step 3 - Pull Docker Image",
+	  "verify": "step3-verify.sh",
       "text": "step3.md"
     },
 	{
