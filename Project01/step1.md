@@ -2,6 +2,10 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+1. List the local Docker Image
+`
+docker image list``{{execute}}
 
-`echo 'Hello Project01'`{{execute}}
+2. Search image from Docker Hub with limit result
+`
+docker search ubuntu --limit 25

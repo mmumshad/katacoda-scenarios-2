@@ -1,11 +1,11 @@
 {
-  "title": "Project01 Scenario",
-  "description": "Your second Scenario",
+  "title": "Docker Scenario",
+  "description": "Basic Docker operation",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - List Docker image",
       "text": "step1.md"
     }],
     "intro": {
@@ -18,9 +18,9 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "Your Interactive Bash Terminal.\r\n"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "docker"
   }
 }
