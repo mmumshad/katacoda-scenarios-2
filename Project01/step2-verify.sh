@@ -1,1 +1,1 @@
-(( $(history | grep limit | wc -l) >= 1 )) && echo "done"
+(( $(history | grep -v grep | grep "limit" | wc -l) >= 1 )) && echo "done"

@@ -1,1 +1,1 @@
-(( $(history | grep image | wc -l) >= 1 )) && echo "done"
+(( $(history | grep -v grep | grep "docker image list" | wc -l) >= 1 )) && echo "done"
