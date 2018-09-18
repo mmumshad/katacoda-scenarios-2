@@ -4,5 +4,5 @@ This is your first step.
 
 6. Stop a running container
 
-docker stop docker01`{{execute}}
+`docker stop docker01`{{execute}}
 

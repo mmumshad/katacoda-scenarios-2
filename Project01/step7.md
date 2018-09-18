@@ -4,6 +4,9 @@ This is your first step.
 
 7. Remove container
 
-docker ps -a`{{execute}}
-docker rm docker01`{{execute}}
-docker ps -a`{{execute}}
+- List all running process
+`docker ps -a`{{execute}}
+- Remove a stopped container 
+`docker rm docker01`{{execute}}
+- Confirm the container is removed
+`docker ps -a`{{execute}}

@@ -4,5 +4,5 @@ This is your first step.
 
 3. Pull Docker image 
 
-docker pull ubuntu`{{execute}}
+`docker pull ubuntu`{{execute}}
 
