@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Welcome to Project01 Scenario!
