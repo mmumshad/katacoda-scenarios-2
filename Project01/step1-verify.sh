@@ -1,1 +1,1 @@
-echo "done"
+[ `echo $?` -eq 0 ]
