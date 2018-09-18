@@ -9,6 +9,7 @@
       "title": "Step 1 - List Docker Image",
       "text": "step1.md",
 	  "verify": "step1-verify.sh"
+	  "courseData": "step1-course-data.sh"
     },
 	{
       "title": "Step 2 - Search Docker Image",
