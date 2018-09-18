@@ -6,7 +6,9 @@ This is your first step.
 
 - List all running process
 `docker ps -a`{{execute}}
+
 - Remove a stopped container 
 `docker rm docker01`{{execute}}
+
 - Confirm the container is removed
 `docker ps -a`{{execute}}
