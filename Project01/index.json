@@ -7,7 +7,8 @@
     "steps": [
 	{
       "title": "Step 1 - List Docker Image",
-      "text": "step1.md"
+      "text": "step1.md",
+	  "verify": "step1-verify.sh"
     },
 	{
       "title": "Step 2 - Search Docker Image",
