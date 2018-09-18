@@ -13,6 +13,7 @@
     },
 	{
       "title": "Step 2 - Search Docker Image",
+	  "verify": "step2-verify.sh",
       "text": "step2.md"
     },
 	{
