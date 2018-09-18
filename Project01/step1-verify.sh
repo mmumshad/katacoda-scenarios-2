@@ -1,1 +1,1 @@
-(( $(history | grep image | wc -l) >= 1 )) && echo \"done\"
+(( $(history | grep image | wc -l) >= 1 )) && echo "done"
