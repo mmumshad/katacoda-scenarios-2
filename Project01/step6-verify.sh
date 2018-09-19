@@ -1,1 +1,1 @@
-(( $(docker ps -a| grep docker01 | wc -l) == 0 )) && echo "done"
+(( $(docker ps | grep docker01 | wc -l) == 0 )) && echo "done"

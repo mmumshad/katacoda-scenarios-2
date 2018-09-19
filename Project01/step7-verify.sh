@@ -1,1 +1,1 @@
-(( $(docker image list| grep ubuntu | wc -l) ==0 )) && echo "done"
+(( $(docker ps -a | grep ubuntu | wc -l) ==0 )) && echo "done"
