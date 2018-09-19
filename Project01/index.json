@@ -23,18 +23,22 @@
     },
 	{
       "title": "Step 4 - List Running Container",
+	  "verify": "step4-verify.sh",
       "text": "step4.md"
     },
 	{
       "title": "Step 5 - Run a Docker Container",
+	  "verify": "step5-verify.sh",
       "text": "step5.md"
     },
 	{
       "title": "Step 6 - Stop a Running Container",
+	  "verify": "step6-verify.sh",
       "text": "step6.md"
     },
 	{
       "title": "Step 7 - Remove Stopped Container",
+	  "verify": "step7-verify.sh",
       "text": "step7.md"
     }
 	],
