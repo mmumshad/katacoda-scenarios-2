@@ -1,1 +1,1 @@
-(( $("docker image list" | wc -l) >= 1 )) && echo "done"
+(( $(docker image list | wc -l) >= 1 )) && echo "done"
