@@ -6,3 +6,5 @@ This is your first step.
 `
 docker image list`{{execute}}
 
+Before start a containter, we check what docker image is existing in local machine
+

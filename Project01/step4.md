@@ -6,3 +6,4 @@ This is your first step.
 
 `docker ps -a`{{execute}}
 
+We use "-a" option to see all container in the machine no matter it is running or not.

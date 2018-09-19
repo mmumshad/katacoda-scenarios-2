@@ -6,3 +6,4 @@ This is your first step.
 
 `docker pull ubuntu`{{execute}}
 
+We can use "pull" command do download the latest images

@@ -12,3 +12,5 @@ This is your first step.
 
 - Confirm the container is removed
 `docker ps -a`{{execute}}
+
+Even we stop the container, we also need use command "rm" to remove the stopped container.

@@ -6,3 +6,4 @@ This is your first step.
 
 `docker stop docker01`{{execute}}
 
+We stop the container by docker name
