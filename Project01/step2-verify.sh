@@ -1,1 +1,1 @@
-(( $(history | grep -v grep | grep "limit" | wc -l) >= 1 )) && echo "done"
+(( $(docker search ubuntu | grep ubuntu | wc -l) >= 1 )) && echo "done"
