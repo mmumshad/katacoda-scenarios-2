@@ -54,6 +54,6 @@
     "uimessage1": "Your Interactive Bash Terminal.\r\n"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "chef"
   }
 }
