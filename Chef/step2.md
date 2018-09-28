@@ -2,11 +2,10 @@
 
 2. View the Resource
 
-`more template.rb`{{execute}}
+`more demouser.rb`{{execute}}
 
 
 <Resource Type> '<Name>' do
-  <Attribute> '<Value>'
   <Attribute> '<Value>'
   <Action> :<Value>
 end
