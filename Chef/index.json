@@ -24,6 +24,11 @@
       "title": "Step 4 - Apply Recipes",
       "text": "step4.md",
 	  "verify": "step4-verify.sh"
+    },
+	{
+      "title": "Step 5 -  Generate cookbook template",
+      "text": "step5.md",
+	  "verify": "step5-verify.sh"
     }
 	],
     "intro": {
@@ -36,8 +41,7 @@
 	"assets": {
 		"client": [
 			{
-			  "file": "demouser.rb",
-			  "file": "template.rb",
+			  "file": "demouser.rb","template.rb",
 			  "target": "~/"
 			}
 		]
