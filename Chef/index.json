@@ -49,17 +49,17 @@
       "text": "finish.md"
     },
 	"assets": {
-      "client":[
-        {
-          "file": "demouser.rb",
-          "target": "~/"
-        }
+		"client":[
+			{
+			  "file": "demouser.rb",
+			  "target": "~/"
+			}
 		],
 		"host01": [
-		{
-			"file": "demouser.rb",
-			"target": "~/"
-		}
+			{
+				"file": "demouser.rb",
+				"target": "~/"
+			}
 		]
 	}
   },
