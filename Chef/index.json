@@ -6,9 +6,24 @@
   "details": {
     "steps": [
 	{
-      "title": "Step 1 - List Docker Image",
+      "title": "Step 1 - Chef Environment",
       "text": "step1.md",
 	  "verify": "step1-verify.sh"
+    },
+	{
+      "title": "Step 2 - Chef DSL",
+      "text": "step2.md",
+	  "verify": "step2-verify.sh"
+    },
+	{
+      "title": "Step 3 - Chef Recipes",
+      "text": "step3.md",
+	  "verify": "step3-verify.sh"
+    },
+	{
+      "title": "Step 4 - Apply Recipes",
+      "text": "step4.md",
+	  "verify": "step4-verify.sh"
     }
 	],
     "intro": {
@@ -22,6 +37,12 @@
 		"client": [
 			{
 			  "file": "demouser.rb",
+			  "target": "~/"
+			}
+		],
+		"client": [
+			{
+			  "file": "template.rb",
 			  "target": "~/"
 			}
 		]

@@ -1,9 +1,7 @@
-This is your first step.
-
 ## Task
 
-3. Pull Docker image 
+3. Recipes example - add user 
 
-`docker pull ubuntu`{{execute}}
+`more demouser.rb`{{execute}}
 
-We can use "pull" command do download the latest images
+The sample Recipes is going to add a new user to the system with specific uid.

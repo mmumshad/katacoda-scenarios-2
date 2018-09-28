@@ -1,4 +1,4 @@
-This is your first step.
+Chef Preparation.
 
 ## Task
 
@@ -6,9 +6,10 @@ This is your first step.
 `
 mkdir /var/tmp/demorecipes`{{execute}}
 
-2. Install Chef Server
+2. Check Chef server and Chef client version
 `
-dpkg -i chef-server-core_12.17.33-1_amd64.deb`{{execute}}
+chef --version`{{execute}}
 
-The standalone installation of Chef server creates a working installation on a single server.
+`
+chef-client --version`{{execute}}
 

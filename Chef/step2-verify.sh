@@ -1,1 +1,1 @@
-(( $(docker search ubuntu | grep ubuntu | wc -l) >= 1 )) && echo "done"
+echo "done"

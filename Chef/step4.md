@@ -1,9 +1,12 @@
-This is your first step.
-
 ## Task
 
-4. List running container
+4. Apply Recipes
 
-`docker ps -a`{{execute}}
+1. Check the syntax before apply the recipes
+`cookstyle demouser.rb`{{execute}}
 
-We use "-a" option to see all container in the machine no matter it is running or not.
+2. Perform the sample run of the recipes
+`chef-client --local-mode --why-run  demouser.rb`{{execute}}
+
+3. Perform the real run of the recipes
+`chef-client --local-mode demouser.rb`{{execute}}

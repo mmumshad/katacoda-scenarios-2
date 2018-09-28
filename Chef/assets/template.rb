@@ -1,10 +1,3 @@
-## Task
-
-2. View the Resource
-
-`more template.rb`{{execute}}
-
-
 <Resource Type> '<Name>' do
   <Attribute> '<Value>'
   <Attribute> '<Value>'

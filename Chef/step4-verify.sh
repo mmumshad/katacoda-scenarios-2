@@ -1,1 +1,1 @@
-echo "done"
+(( $(grep user01 /etc/passwd/ | wc -l) >= 1 )) && echo "done"
