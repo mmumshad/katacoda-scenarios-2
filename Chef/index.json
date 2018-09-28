@@ -47,7 +47,15 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+	"assets": {
+      "client": [
+        {
+          "file": "demouser.rb",
+          "target": "~/"
+        }
+	]
+	}
   },
   "environment": {
     "uilayout": "terminal",
