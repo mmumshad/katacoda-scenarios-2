@@ -42,13 +42,13 @@
 		"client": [
 			{
 			  "file": "recipes/demouser.rb",
-			  "target": "~/"
+			  "target": "~/recipes/"
 			}
 		],
 		"client": [
 			{
 			  "file": "template/template.rb",
-			  "target": "~/"
+			  "target": "~/template/"
 			}
 		]
 	}
