@@ -5,7 +5,7 @@
 `more demouser.rb`{{execute}}
 
 
-<Resource Type> '<Name>' do
-  <Attribute> '<Value>'
-  <Action> :<Value>
-end
+#<Resource Type> '<Name>' do
+#  <Attribute> '<Value>'
+#  <Action> :<Value>
+#end
