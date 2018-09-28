@@ -54,6 +54,12 @@
           "file": "demouser.rb",
           "target": "~/"
         }
+		],
+		"host01": [
+		{
+			"file": "demouser.rb",
+			"target": "~/"
+		}
 		]
 	}
   },
