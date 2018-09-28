@@ -6,10 +6,13 @@ Chef Preparation.
 `
 mkdir /var/tmp/demorecipes`{{execute}}
 
-2. Check Chef server and Chef client version
+In general, we suggest the recipes store in a centralized location.
+
+2. Check Chef server version
 `
 chef --version`{{execute}}
 
+2. Check Chef client version
 `
 chef-client --version`{{execute}}
 
