@@ -51,7 +51,7 @@
 	"assets": {
       "client": [
         {
-          "file": "demouser.rb",
+          "file": "/demouser.rb",
           "target": "~/"
         }
 	]
