@@ -49,7 +49,7 @@
       "text": "finish.md"
     },
 	"assets": {
-		"client":[
+		"client": [
 			{
 			  "file": "demouser.rb",
 			  "target": "~/"
