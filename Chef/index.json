@@ -36,7 +36,8 @@
 	"assets": {
 		"client": [
 			{
-			  "file": "*.rb",
+			  "file": "demouser.rb",
+			  "file": "template.rb",
 			  "target": "~/"
 			}
 		]
