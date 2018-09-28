@@ -41,7 +41,13 @@
 	"assets": {
 		"client": [
 			{
-			  "file": "demouser.rb","template.rb",
+			  "file": "recipes/demouser.rb",
+			  "target": "~/"
+			}
+		],
+		"client": [
+			{
+			  "file": "template/template.rb",
 			  "target": "~/"
 			}
 		]
